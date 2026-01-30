@@ -54,11 +54,11 @@ Tkinter para componentes básicos de GUI.
 ## ⚙️ Instalación y Ejecución
 1.Clonar el repositorio: 
 ```bash
-git clone https://github.com/usuario/agente-recomendador.git
+
 ```
 2.Entrar en la carpeta del proyecto:
 ```bash
-cd agente-recomendador
+
 ```
 3. Instalar dependencias:
 ```bash
