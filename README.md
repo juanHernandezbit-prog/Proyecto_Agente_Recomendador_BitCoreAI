@@ -88,7 +88,8 @@ Plan propuesto
 Motivo de la recomendación
 
  ## 👥 Autores
- Juan Pablo Hernández Arámbulo
+ Juan Pablo Hernández Arámbulo(@juanHernandezbit-prog)
+ 
 
 Jessie Gabriela Suárez Naranjo
 
