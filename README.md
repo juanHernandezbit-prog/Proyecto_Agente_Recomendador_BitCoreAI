@@ -56,11 +56,15 @@ Tkinter para componentes básicos de GUI.
 ```bash
 git clone https://github.com/juanHernandezbit-prog/Semillero_IA_Proyecto_Agente_Recomendador_BitCoreAI/tree/main
 ```
-2. Instalar dependencias:
+2.Entrar en la carpeta del proyecto:
+```bash
+cd agente-recomendador
+```
+3. Instalar dependencias:
 ```bash
 pip install -r requirements.txt
 ```
-3. Ejecutar el sistema:
+4. Ejecutar el sistema:
 ```bash
 python main.py
 ```
